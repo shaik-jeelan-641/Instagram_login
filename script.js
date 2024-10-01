@@ -1,4 +1,4 @@
-function fn() {
+ function fn() {
     var passwordInput = document.querySelector('.password');
     var passwordButton = document.querySelector('button');
 
